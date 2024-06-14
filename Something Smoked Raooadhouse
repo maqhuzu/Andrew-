@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Something Smoked Roadhouse</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Something Smoked Roadhouse</h1>
+        <p>Located in Chiawelo, Soweto</p>
+        <p>Contact: 0711124016 | WhatsApp: 0659188181</p>
+    </header>
+    
+    <section id="menu">
+        <h2>Our Menu</h2>
+        <div class="menu-section">
+            <h3>Meat Plates</h3>
+            <p>Comes with 2 sides of choice and sauce (Feeds 1-2)</p>
+            <ul>
+                <li>2 Meat - R140</li>
+                <li>3 Meat - R190</li>
+                <li>4 Meat - R240</li>
+                <li>5 Meat - R300</li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h3>Meats Available</h3>
+            <ul>
+                <li>Chicken Quarter Leg (Smoked for 3-5 hours)</li>
+                <li>Sausage (Pork with Cheese & Beef, Cold Smoked for 6 hours)</li>
+                <li>Beef Brisket +R20 (Smoked for 16 hours)</li>
+                <li>Pork Spare Ribs (Smoked for hours)</li>
+                <li>Pork Belly Brisket (Smoked for 8 hours)</li>
+                <li>Pulled Pork (Smoked for 12 hours)</li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h3>Grand Platter</h3>
+            <p>4 meats feeds 4-8</p>
+            <ul>
+                <li>4 Sausages, Full Chicken, Brisket/Pork Belly, Brisket/Pulled Pork, Pork Ribs and 3 sides</li>
+            </ul>
+            <p>R770 if you choose Pulled Pork</p>
+            <p>R850 if you choose Beef Brisket</p>
+        </div>
+
+        <div class="menu-section">
+            <h3>Special Items</h3>
+            <ul>
+                <li>Limited Chicken: R170 Full / R95 Half</li>
+                <li>Spare Ribs: R350 Rack / R180 Half</li>
+                <li>Oxtail: R350/kg</li>
+                <li>Turkey Drum: R180</li>
+                <li>Garlic Bread: R60</li>
+            </ul>
+        </div>
+
+        <div class="menu-section">
+            <h3>Sides</h3>
+            <ul>
+                <li>BBQ Pit Beans: R25</li>
+                <li>Pico Pineapple Salsa: R25</li>
+                <li>Mac & Cheese (Cheese & Mushroom): R25</li>
+                <li>Street Corn Elotes: R25</li>
+                <li>BBQ Dips Sauce: R12</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>Visit us on social media for more updates!</p>
+        <p>Instagram: <a href="https://www.instagram.com/somethingsmokedroadhouse/">somethingsmokedroadhouse</a></p>
+    </footer>
+</body>
+</html>
